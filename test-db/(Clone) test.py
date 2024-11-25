@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %sql
-# MAGIC select * from imdb_movies_rating limit 5
+# MAGIC select * from imdb_movies_rating limit 10
 
 # COMMAND ----------
 
